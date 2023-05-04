@@ -1,2 +1,3 @@
 Nombre: William Leonardo
-edad: 21
+edad: 21 años
+direccion: ciudadela españa
